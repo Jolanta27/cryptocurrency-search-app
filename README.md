@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+
 
 This project was bootstrapped with Create React App. I took data from https://www.coingecko.com/pl/api#explore-api .
 
