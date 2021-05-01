@@ -26,4 +26,4 @@
 
 <h3>The project looks like: </h3>
 
-![Screenshot](https://user-images.githubusercontent.com/53143114/116791405-5fa1a480-aaba-11eb-9c76-e0c607737e23.jpeg)
+![Alt text](crypto.gif)
