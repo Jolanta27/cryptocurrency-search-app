@@ -26,4 +26,4 @@
 
 <h3>The project looks like: </h3>
 
-![Alt text](crypto.gif)
+![Alt text](crypto1.gif)
